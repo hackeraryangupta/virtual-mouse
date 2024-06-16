@@ -1,0 +1,1 @@
+The virtual mouse is developed using Python and OpenCV libraries. The project includes the implementation of various image processing algorithms, such as hand segmentation, feature extraction, and classification. Moreover, it is robust to various lighting conditions, backgrounds, and hand sizes. 
